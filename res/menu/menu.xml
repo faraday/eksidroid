@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:title="@string/getir_text" android:id="@+id/getir"></item>
+<item android:title="@string/bugun_text" android:id="@+id/bugun"></item>
+<item android:title="@string/dun_text" android:id="@+id/dun"></item>
+<item android:id="@+id/ayar" android:title="@string/set_preferences"></item>
+</menu>

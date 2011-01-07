@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:orientation="horizontal"
+  android:gravity="center">
+  
+  <EditText android:id="@+id/GetirEdit" android:layout_height="wrap_content"
+		android:textColor="#000" android:layout_width="200dip"
+		android:layout_margin="3dip"
+		android:gravity="left">
+  </EditText>
+		
+	<Button android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:text="@string/getir_text" android:id="@+id/GetirBut"></Button>
+  
+</LinearLayout>

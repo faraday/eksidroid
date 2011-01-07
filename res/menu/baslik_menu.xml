@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:title="@string/tumunu_goster_text" android:id="@+id/tumunu_goster"></item>
+<item android:title="@string/sayfa_text" android:id="@+id/sayfa"></item>
+<item android:title="@string/getir_text" android:id="@+id/getir"></item>
+<item android:title="@string/bugun_text" android:id="@+id/bugun"></item>
+</menu>

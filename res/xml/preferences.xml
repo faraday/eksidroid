@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceCategory android:title="@string/offline_text">
+	<CheckBoxPreference 
+	android:title="@string/cache_text"
+	android:key="@+id/cachePref">
+	</CheckBoxPreference>
+</PreferenceCategory>
+</PreferenceScreen>
